@@ -1,3 +1,8 @@
+![Tool](https://img.shields.io/badge/Tool-Nmap-red)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-HackerDNA-blue)
+![Skill](https://img.shields.io/badge/Skill-Enumeration-success)
+
 Spoof! — HackerDNA Lab Writeup
 Author: Dorothy Spencer
 Date: 02/16/2026
