@@ -1,3 +1,7 @@
+![Tool](https://img.shields.io/badge/Tool-Nmap-red)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-HackerDNA-blue)
+![Skill](https://img.shields.io/badge/Skill-Enumeration-success)
 # HackerDNA Cybersecurity Lab Writeups
 
 This repository contains my completed HackerDNA cybersecurity labs, each documented with clear methodology, screenshots, and step‑by‑step exploitation workflows. It serves as a growing portfolio of my hands‑on experience in ethical hacking, web exploitation, enumeration, privilege escalation, and security fundamentals.
