@@ -1,3 +1,8 @@
+![Tool](https://img.shields.io/badge/Tool-Nmap-red)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-HackerDNA-blue)
+![Skill](https://img.shields.io/badge/Skill-Enumeration-success)
+
 Onboarding Lab: Access and Flags
 Platform: HackerDNA
 Difficulty: Very Easy
@@ -43,5 +48,6 @@ This lab teaches basic navigation of the HackerDNA platform.
 Flags must be copied exactly as displayed.
 
 Developer Tools reveal client‑side scripts, credentials, and flag references.
+
 
 Understanding how to inspect scripts prepares you for later labs.
