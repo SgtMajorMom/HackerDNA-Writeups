@@ -1,4 +1,9 @@
 ![Tool](https://img.shields.io/badge/Tool-Nmap-red)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-HackerDNA-blue)
+![Skill](https://img.shields.io/badge/Skill-Enumeration-success)
+
+
 # HackerDNA Learning Labs — Writeups by Dorothy Spencer
 
 Welcome to my collection of cybersecurity learning lab write-ups completed through the HackerDNA platform.  
