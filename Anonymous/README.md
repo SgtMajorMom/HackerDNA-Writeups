@@ -1,3 +1,7 @@
+![Tool](https://img.shields.io/badge/Tool-Nmap-red)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-HackerDNA-blue)
+![Skill](https://img.shields.io/badge/Skill-Enumeration-success)
 # Anonymous  
 **Platform:** HackerDNA  
 **Difficulty:** Easy  
