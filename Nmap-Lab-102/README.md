@@ -1,3 +1,4 @@
+![Tool](https://img.shields.io/badge/Tool-Nmap-red)
 # HackerDNA Learning Labs — Writeups by Dorothy Spencer
 
 Welcome to my collection of cybersecurity learning lab write-ups completed through the HackerDNA platform.  
