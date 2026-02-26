@@ -1,8 +1,8 @@
+![Difficulty: Very Easy](https://img.shields.io/badge/Difficulty-Very%20Easy-brightgreen?style=flat)
 ![Tool](https://img.shields.io/badge/Tool-Nmap-red)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-HackerDNA-blue)
 ![Skill](https://img.shields.io/badge/Skill-Enumeration-success)
-![Difficulty: Very Easy](https://img.shields.io/badge/Difficulty-Very%20Easy-brightgreen?style=flat)
 
 # HackerDNA Cybersecurity Lab Writeups
 
