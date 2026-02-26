@@ -2,6 +2,9 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-HackerDNA-blue)
 ![Skill](https://img.shields.io/badge/Skill-Enumeration-success)
+![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=flat)
+
+
 # Anonymous  
 **Platform:** HackerDNA  
 **Difficulty:** Easy  
