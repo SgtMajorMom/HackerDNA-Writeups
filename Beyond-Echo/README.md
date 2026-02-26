@@ -1,5 +1,6 @@
-![Beyond Echo](https://img.shields.io/badge/Beyond%20Echo-Command%20Substitution-blueviolet?style=flat&logo=gnu-bash&logoColor=white)
 ![Medium](https://img.shields.io/badge/Difficulty-Medium-orange?style=flat)
+![Beyond Echo](https://img.shields.io/badge/Beyond%20Echo-Command%20Substitution-blueviolet?style=flat&logo=gnu-bash&logoColor=white)
+
 
 
 # Beyond Echo
