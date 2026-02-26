@@ -1,3 +1,4 @@
+![Difficulty: Very Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=flat)
 ![Tool](https://img.shields.io/badge/Tool-Nmap-red)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-HackerDNA-blue)
