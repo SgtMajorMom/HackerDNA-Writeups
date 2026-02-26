@@ -1,3 +1,4 @@
+![Difficulty: Very Easy](https://img.shields.io/badge/Difficulty-Very%20Easy-brightgreen?style=flat)
 ![Tool](https://img.shields.io/badge/Tool-Nmap-red)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-HackerDNA-blue)
@@ -51,3 +52,4 @@ Developer Tools reveal client‑side scripts, credentials, and flag references.
 
 
 Understanding how to inspect scripts prepares you for later labs.
+
