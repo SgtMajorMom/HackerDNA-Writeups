@@ -9,13 +9,30 @@ These writeups are intentionally presented as a learning journey — early labs 
 
 ---
 
-## 📚 Table of Contents
+## 📁 Lab Index
 
-- [About This Repository](#about-this-repository)
-- [Lab Index](#lab-index)
-- [Tools & Skills Practiced](#tools--skills-practiced)
-- [My Approach](#my-approach)
-- [Status](#status)
+### **101-Level Labs (Foundations)**
+Beginner labs focused on understanding core concepts, basic alert handling, and foundational analysis skills.
+
+- **Onboarding Lab: Access and Flags**  
+  *Identity basics • Access review • Flag enumeration*  
+  ➡️ `/Onboarding-Lab-Access-and-Flags/Onboarding Lab - Access and Flags.pdf`
+
+*(More 101 labs will be added as I complete them.)*
+
+---
+
+### **201-Level Labs (Intermediate Analysis)**
+Labs that require deeper reasoning, log interpretation, and multi-step investigation workflows.
+
+*(Coming soon — will be added as I progress.)*
+
+---
+
+### **301-Level Labs (Advanced / SOC-Focused)**
+Labs involving correlation, multi-log analysis, identity abuse patterns, and incident-style workflows.
+
+*(Coming soon — these will reflect more advanced skills as I grow.)*
 
 ---
 
@@ -31,5 +48,6 @@ My goal is to create write‑ups that are:
 - **Professional** — organized, consistent, and easy for recruiters to navigate  
 
 These labs represent my growing skill set in networking, enumeration, privilege escalation, and foundational offensive security techniques.  
-They also demonstrate my ability to communicate technical concepts clearly — a key skill for Security Analysts and Junior Penetration Testers.
+
+They also demonstrate my ability to communicate technical concepts clearly — a key skill across IT, security operations, and analyst‑oriented roles.
 
