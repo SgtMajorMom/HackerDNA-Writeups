@@ -1,11 +1,11 @@
-# HackerDNA Learning Labs — Writeups by Dorothy Spencer
+# HackerDNA Lab Writeups  
+A growing collection of my HackerDNA lab writeups, documenting my progress as I build skills in alert triage, log analysis, identity abuse detection, and security‑minded investigation workflows.
+
+These writeups are intentionally presented as a learning journey — early labs are simpler, and later labs become more structured as my skills develop.
 
 ![Status](https://img.shields.io/badge/Repo_Status-Active-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-HackerDNA-blue)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-orange)
-
-Welcome to my collection of cybersecurity learning lab writeups completed through the HackerDNA platform.  
-This repository documents my hands‑on practice across networking, enumeration, privilege escalation, and foundational offensive security concepts.
 
 ---
 
